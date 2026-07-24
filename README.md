@@ -49,6 +49,5 @@ Operators - `for` Loop - `range()` Function
 
 ## Author
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**GitHub:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Name:** Suraj Dhara
+**GitHub:** dharachhanda48
